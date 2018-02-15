@@ -22,5 +22,10 @@ public class LambdaTests {
         assertEquals(count, 1);
     }
 
+    @Test
+    public void ConflictingTestCase() {
+
+    }
+
 
 }
