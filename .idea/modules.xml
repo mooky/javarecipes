@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/javarecipes.iml" filepath="$PROJECT_DIR$/.idea/modules/javarecipes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/javarecipes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javarecipes_main.iml" group="javarecipes" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/javarecipes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javarecipes_test.iml" group="javarecipes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1.iml" filepath="$PROJECT_DIR$/.idea/modules/module1.iml" group="module1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/module1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/module1_main.iml" group="module1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/module1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/module1_test.iml" group="module1" />
     </modules>
   </component>
 </project>

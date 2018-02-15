@@ -6,5 +6,7 @@ public class Program {
 
         Runnable r = () -> System.out.println("lambda expression implementing the run method");
         new Thread(r).start();
+
+        ModuleClass1 temp = new ModuleClass1();
     }
 }
