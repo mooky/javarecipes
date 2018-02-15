@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.io.File;
 import java.util.stream.Stream;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 public class LambdaTests {
 
@@ -20,6 +20,11 @@ public class LambdaTests {
                 .count();
 
         assertEquals(count, 1);
+    }
+
+    @Test
+    public void ShouldBeAnotherTest() {
+        assertTrue(true);
     }
 
 
